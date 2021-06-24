@@ -1,5 +1,5 @@
 # Python-AI-assistant
-#Assistant Name - MOnkey
+#Assistant Name - Monkey
 
 What is the Agenda?
 The main objective of this model is to enable automated task using speech recognition.
